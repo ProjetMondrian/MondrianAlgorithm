@@ -76,7 +76,7 @@ No facial recognition is used inside the program, it might be a good idea to add
 
 
 
-With a greater scale parameter we have : 
+With a greater scale parameter and 10 lines we have : 
 
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/withgreaterscale.jpg)
 
