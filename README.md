@@ -6,11 +6,18 @@ The program isn't finished yet.
 
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/test9.jpg)
 
+
 Based on this picture with the following parameters we have 
 
-scale = 40
-resizevalue = 1        
-cleanvalue = 20
-marge = 60
+- scale = 40
+
+- resizevalue = 1
+
+- cleanvalue = 20
+
+- marge = 60
+
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/Result1.jpg)
+
 
 - Guillaume Comte
