@@ -40,10 +40,11 @@ By lowering the scale we get a picture which looks a little bit more like the or
 
 From far away we can almost guess the original picture from the painting
 
-![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/from%20far%20away.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/from%20far%20away.JPG">
+</p>
 
 
-![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/superpositionImageEtLignes.JPG)
 
 However the algorithm is not optimized and a great amout of noise is still visible on the painting. The noise could be removed by the function called "cleanUpPainting" inside of the python program, unfortunately this function works recursively and for pictures with a fair amount of pixels (1960x1960) it is impossible for the function to work without taking several minutes.
 
