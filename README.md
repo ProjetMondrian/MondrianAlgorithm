@@ -4,7 +4,7 @@ Here is the algorithm to generate a painting in the style of Mondrian. The algor
 
 The program isn't finished yet. 
 
-![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/test9.jpg)
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/test9.jpg | width=100))
 
 
 Based on this picture with the following parameters we get with the algorithm :  
@@ -17,7 +17,7 @@ Based on this picture with the following parameters we get with the algorithm :
 
 - marge = 60
 
-![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/Result1.jpg)
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/Result1.jpg | width=100))
 
 
 By lowering the scale we get a picture which looks a little bit more like the original picture : 
@@ -30,7 +30,7 @@ By lowering the scale we get a picture which looks a little bit more like the or
 
 - marge = 60
 
-![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/Result2.jpg)
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/Result2.jpg | width=100))
 
 
 From far away we can almost guess the original picture from the painting
