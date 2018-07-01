@@ -51,6 +51,17 @@ The noise problem can be corrected by changing the values of the parameters in t
 
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/FinalResult_noNoise.jpg)
 
+
+With a better algorithm to generate the staight lines we get a very promising result: 
+
+- scale = 20
+
+- outputSize = (1000,1000)
+
+- number_of_lines = 50
+
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/betterAlgorithm.jpg)
+
 No facial recognition is used inside the program, it might be a good idea to add it. 
 
 
