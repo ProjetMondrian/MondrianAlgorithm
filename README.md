@@ -9,6 +9,9 @@ The program isn't finished yet.
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/test9.jpg)
 
 
+
+## The first algorithm
+
 Based on this picture with the following parameters we get with the algorithm :  
 
 - scale = 40
@@ -46,11 +49,13 @@ However the algorithm is not optimized and a great amout of noise is still visib
 
 Furthermore the strait lines pattern on the painting generated does not match the style of Mondrian. A new algorithm to create those strait lines has to be implemented, as well as a new method to remove the noise in the painting.
 
-
+## The second algorithm
 The noise problem can be corrected by changing the values of the parameters in the procedure ```img.resize``` from the PIL library
 
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/FinalResult_noNoise.jpg)
 
+
+## The third algorithm
 
 With a better algorithm to generate the staight lines we get a very promising result: 
 
