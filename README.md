@@ -41,7 +41,7 @@ By lowering the scale we get a picture which looks a little bit more like the or
 From far away we can almost guess the original picture from the painting
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/from%20far%20away.JPG">
+  <img width="200" height="200" src="https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/from%20far%20away.JPG">
 </p>
 
 
