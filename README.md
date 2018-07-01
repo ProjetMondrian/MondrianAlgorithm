@@ -70,7 +70,7 @@ With a better algorithm to generate the staight lines we get a very promising re
 
 by choosing the color with the most numerous pixels we get : 
 
-![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/Algo4.jpg)
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/FinalResult.jpg)
 
 No facial recognition is used inside the program, it might be a good idea to add it. 
 
