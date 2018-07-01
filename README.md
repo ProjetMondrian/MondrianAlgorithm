@@ -44,5 +44,7 @@ However the algorithm is not optimized and a great amout of noise is still visib
 
 Furthermore the strait lines pattern on the painting generated does not match the style of Mondrian. A new algorithm to create those strait lines has to be implemented, as well as a new method to remove the noise in the painting.
 
+No facial recognition is used inside the program, it might be a good idea to add it. 
+
 
 - Guillaume Comte
