@@ -1,6 +1,8 @@
 # MondrianAlgorithm
 
-Here is the algorithm to generate a painting in the style of Mondrian. The algorithm is implemented in Python. 
+Here is the algorithm to generate a painting in the style of Mondrian. The algorithm is implemented in Python. It chooses the color by calculating the mean of the RGB components of each pixel inside a region. 
+
+Choosing the color based on the pixel that appears more frequently inside a region will be implemented. 
 
 The program isn't finished yet. 
 
