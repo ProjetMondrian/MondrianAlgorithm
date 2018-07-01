@@ -36,6 +36,8 @@ By lowering the scale we get a picture which looks a little bit more like the or
 From far away we can almost guess the original picture from the painting
 
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/from%20far%20away.JPG)
+
+
 ![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/superpositionImageEtLignes.JPG)
 
 However the algorithm is not optimized and a great amout of noise is still visible on the painting. The strait lines pattern does not match the style of Mondrian. A new algorithm to create those strait lines has to be implemented, as well as a new method to remove the noise in the painting.
