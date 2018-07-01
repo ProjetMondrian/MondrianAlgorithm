@@ -75,4 +75,9 @@ by choosing the color with the most numerous pixels we get :
 No facial recognition is used inside the program, it might be a good idea to add it. 
 
 
+
+With a greater scale parameter we have : 
+
+![alt text](https://github.com/ProjetMondrian/MondrianAlgorithm/blob/master/withgreaterscale.jpg)
+
 - Guillaume Comte
